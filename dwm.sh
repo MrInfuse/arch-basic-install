@@ -17,7 +17,7 @@ if [[ $aur_helper = true ]]; then
 fi
 
 # Install packages
-sudo pacman -S xorg firefox polkit-gnome xwallpaper lxappearance ranger ueberzug bc picom arandr	libnotify dunst sxiv ffmpeg ffmpegthumbnailer gnome-keyring neovim mpd mpc mpv man-db ncmpcpp noto-fonts-emoji pamixer maim unclutter unzip lynx xcape xclip xdotool yt-dlp zathura zathura-pdf-mupdf poppler mediainfo atool fzf bat moreutils
+sudo pacman -S xorg firefox polkit-gnome xwallpaper lxappearance ranger ueberzug bc picom arandr libnotify dunst sxiv ffmpeg ffmpegthumbnailer gnome-keyring neovim mpd mpc mpv man-db ncmpcpp noto-fonts-emoji pamixer maim unclutter unzip lynx xcape xclip xdotool yt-dlp zathura zathura-pdf-mupdf poppler mediainfo atool fzf bat moreutils
 
 paru -S --noconfirm brave-bin
 
